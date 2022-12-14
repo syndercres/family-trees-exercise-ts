@@ -1,0 +1,55 @@
+yarn run v1.22.19
+$ ts-node src/index.ts
+
+====================   WITH STACK - british royals   =============
+Queen Elizabeth II
+Anne
+Zara
+Lucas
+Lena
+Mia
+Peter
+Isla
+Savannah
+Edward
+Louise
+James
+Andrew
+Eugenie
+August
+Beatrice
+Charles
+Harry
+Archie
+William
+Louis
+Charlotte
+George
+TODO!  First person is Queen Elizabeth II
+
+====================   WITH QUEUE - british royals   =============
+Queen Elizabeth II
+Charles
+Andrew
+Edward
+Anne
+William
+Harry
+Beatrice
+Eugenie
+James
+Louise
+Peter
+Zara
+George
+Charlotte
+Louis
+Archie
+August
+Savannah
+Isla
+Mia
+Lena
+Lucas
+TODO!  First person is Queen Elizabeth II
+Done in 2.53s.
